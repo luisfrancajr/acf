@@ -386,6 +386,7 @@ class acf
 		include_once('core/fields/relationship.php');
 		include_once('core/fields/taxonomy.php');
 		include_once('core/fields/user.php');
+		include_once('core/fields/role.php');
 		
 		include_once('core/fields/google-map.php');
 		include_once('core/fields/date_picker/date_picker.php');
